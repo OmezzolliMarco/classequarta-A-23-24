@@ -1,0 +1,17 @@
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\bin\Debug\net6.0-windows\ListeDinamiche.exe
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\bin\Debug\net6.0-windows\ListeDinamiche.deps.json
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\bin\Debug\net6.0-windows\ListeDinamiche.runtimeconfig.json
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\bin\Debug\net6.0-windows\ListeDinamiche.dll
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\bin\Debug\net6.0-windows\ListeDinamiche.pdb
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.Form1.resources
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.AssemblyInfo.cs
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.dll
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\refint\ListeDinamiche.dll
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.pdb
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ListeDinamiche.genruntimeconfig.cache
+C:\Users\marco\source\repos\ListeDinamiche\ListeDinamiche\obj\Debug\net6.0-windows\ref\ListeDinamiche.dll

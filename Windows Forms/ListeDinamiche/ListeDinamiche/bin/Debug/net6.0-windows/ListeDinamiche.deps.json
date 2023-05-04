@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ListeDinamiche/1.0.0": {
+        "runtime": {
+          "ListeDinamiche.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListeDinamiche/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
