@@ -1,1 +1,2 @@
-Giocatore: 10 & Computer: 15
+Player: 3
+Computer2
