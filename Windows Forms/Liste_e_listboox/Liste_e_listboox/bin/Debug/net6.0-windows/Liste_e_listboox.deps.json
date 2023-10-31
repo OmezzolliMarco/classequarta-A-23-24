@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Liste_e_listboox/1.0.0": {
+        "runtime": {
+          "Liste_e_listboox.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Liste_e_listboox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

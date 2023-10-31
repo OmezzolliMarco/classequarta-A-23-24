@@ -1,0 +1,16 @@
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\bin\Debug\net6.0-windows\Liste_e_listboox.exe
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\bin\Debug\net6.0-windows\Liste_e_listboox.deps.json
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\bin\Debug\net6.0-windows\Liste_e_listboox.runtimeconfig.json
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\bin\Debug\net6.0-windows\Liste_e_listboox.dll
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\bin\Debug\net6.0-windows\Liste_e_listboox.pdb
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\Liste_e_listboox.Form1.resources
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\Liste_e_listboox.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\Liste_e_listboox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\Liste_e_listboox.AssemblyInfoInputs.cache
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\Liste_e_listboox.AssemblyInfo.cs
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\Liste_e_listboox.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\Liste_e_listboox.dll
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\refint\Liste_e_listboox.dll
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\Liste_e_listboox.pdb
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\Liste_e_listboox.genruntimeconfig.cache
+C:\Users\marco\OneDrive\Documenti\Github\classequarta\Windows Forms\Liste_e_listboox\Liste_e_listboox\obj\Debug\net6.0-windows\ref\Liste_e_listboox.dll
