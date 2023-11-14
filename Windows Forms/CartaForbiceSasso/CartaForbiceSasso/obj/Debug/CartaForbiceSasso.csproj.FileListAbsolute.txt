@@ -1,0 +1,11 @@
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\bin\Debug\CartaForbiceSasso.exe.config
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\bin\Debug\CartaForbiceSasso.exe
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\bin\Debug\CartaForbiceSasso.pdb
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\obj\Debug\CartaForbiceSasso.csproj.AssemblyReference.cache
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\obj\Debug\CartaForbiceSasso.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\obj\Debug\CartaForbiceSasso.Form1.resources
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\obj\Debug\CartaForbiceSasso.Properties.Resources.resources
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\obj\Debug\CartaForbiceSasso.csproj.GenerateResource.cache
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\obj\Debug\CartaForbiceSasso.csproj.CoreCompileInputs.cache
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\obj\Debug\CartaForbiceSasso.exe
+C:\Users\marco.omezzolli\source\repos\CartaForbiceSasso\CartaForbiceSasso\obj\Debug\CartaForbiceSasso.pdb
