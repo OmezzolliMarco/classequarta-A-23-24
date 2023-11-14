@@ -46,6 +46,7 @@ namespace CartaForbiceSasso
             }
             else if(r1 == 0 && r2 == 1)
             {
+
                 return "Vince Player2";
             }
             else if(r1 == 0 && r2 == 2)
