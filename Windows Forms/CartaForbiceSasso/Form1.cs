@@ -42,33 +42,57 @@ namespace CartaForbiceSasso
              */
             if (r1 == r2)
             {
+                Giocata g = new Giocata("Player1", "Player2", true, parita:true);
+                list.Add(g);
                 return "Pareggio";
             }
             else if(r1 == 0 && r2 == 1)
             {
-
+                //creo un oggetto giocata e lo inserisco nella lista
+                //delle giocate che ho svolto
+                Giocata g = new Giocata("Player1", "Player2", false);
+                list.Add(g);
                 return "Vince Player2";
             }
             else if(r1 == 0 && r2 == 2)
             {
+                Giocata g = new Giocata("Player1", "Player2", true);
+                list.Add(g);
                 return "Vince Player1";
             }
             else if (r1 == 1 && r2 == 0)
             {
+                Giocata g = new Giocata("Player1", "Player2", true);
+                list.Add(g);
                 return "Vince Player1";
             }
             else if(r1 == 1 && r2 == 2)
             {
+                Giocata g = new Giocata("Player1", "Player2", false);
+                list.Add(g);
                 return "Vince Player2";
             }
             else if(r1 == 2 && r2 == 0)
             {
+                Giocata g = new Giocata("Player1", "Player2", false);
+                list.Add(g);
                 return "Vince Player2";
             }
             else if(r1 == 2 && r2 == 1)
             {
+                Giocata g = new Giocata("Player1", "Player2", true);
+                list.Add(g);
                 return "Vince Player1";
             }
+
+            //aggiornamento della listbox
+            listBox1.BeginUpdate();
+            listBox1.Items.Clear();
+            foreach (var giocata in list)
+            {
+                listBox1.Items.Add(giocata.toString());
+            }
+            listBox1.EndUpdate();   
             return "Errore nel calcolo del vincitore";
         }
 
