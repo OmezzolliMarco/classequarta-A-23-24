@@ -1,0 +1,13 @@
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\obj\Debug\SerializzazioneJSON.csproj.AssemblyReference.cache
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\obj\Debug\SerializzazioneJSON.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\obj\Debug\SerializzazioneJSON.Properties.Resources.resources
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\obj\Debug\SerializzazioneJSON.csproj.GenerateResource.cache
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\obj\Debug\SerializzazioneJSON.csproj.CoreCompileInputs.cache
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\bin\Debug\SerializzazioneJSON.exe.config
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\bin\Debug\SerializzazioneJSON.exe
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\bin\Debug\SerializzazioneJSON.pdb
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\obj\Debug\SerializzazioneJSON.csproj.CopyComplete
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\obj\Debug\SerializzazioneJSON.exe
+C:\Users\marco.omezzolli\source\repos\SerializzazioneJSON\SerializzazioneJSON\obj\Debug\SerializzazioneJSON.pdb

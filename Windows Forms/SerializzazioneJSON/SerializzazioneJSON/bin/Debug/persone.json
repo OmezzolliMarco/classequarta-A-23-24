@@ -1,0 +1,12 @@
+[
+    {
+        "nome":"Mario",
+        "cognome": "Rossi",
+        "anno_di_nascita": 2000
+    },
+    {
+        "nome":"Luigi",
+        "cognome": "Verdi",
+        "anno_di_nascita": 2005
+    }
+]
