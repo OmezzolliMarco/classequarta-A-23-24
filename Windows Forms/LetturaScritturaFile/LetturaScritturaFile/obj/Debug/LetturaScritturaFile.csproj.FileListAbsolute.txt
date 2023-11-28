@@ -1,0 +1,11 @@
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\bin\Debug\LetturaScritturaFile.exe.config
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\bin\Debug\LetturaScritturaFile.exe
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\bin\Debug\LetturaScritturaFile.pdb
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\LetturaScritturaFile.csproj.AssemblyReference.cache
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\LetturaScritturaFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\LetturaScritturaFile.Form1.resources
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\LetturaScritturaFile.Properties.Resources.resources
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\LetturaScritturaFile.csproj.GenerateResource.cache
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\LetturaScritturaFile.csproj.CoreCompileInputs.cache
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\LetturaScritturaFile.exe
+C:\Users\marco.omezzolli\source\repos\LetturaScritturaFile\LetturaScritturaFile\obj\Debug\LetturaScritturaFile.pdb
