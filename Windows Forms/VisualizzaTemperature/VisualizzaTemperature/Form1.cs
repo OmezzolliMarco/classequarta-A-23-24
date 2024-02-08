@@ -13,6 +13,7 @@ namespace VisualizzaTemperature
 
         private async void getJsonButton(object sender, EventArgs e)
         {
+
             string apiUrl = "http://studinfo.altervista.org/apitest/retrive_data.php";
 
             using (HttpClient client = new HttpClient())
